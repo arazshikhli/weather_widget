@@ -1,0 +1,39 @@
+.content-container{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+.inner-content{
+    text-align: center;
+}
+.inner-content a{
+    text-decoration: none;
+    color: black;
+    font-size: large;
+    font-weight: 700;
+}
+.inner-content ul{
+    list-style: none;
+   
+}
+.inner-content li{
+    display: inline;
+    margin: 0px 10px 0px;
+}
+.left-container{
+    width: 20%;
+    height: 100%;
+  
+}
+.center-container{
+    width: 60%;
+    height: 100%;
+   
+}
+.right-container{
+    width: 20%;
+    height: 100%;
+ 
+}

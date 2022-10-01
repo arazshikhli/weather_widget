@@ -1,0 +1,9 @@
+.container{
+    width: 1350px;
+    background-image: url(/img/bg/sky-bg-container.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+    margin: 0 auto;
+   
+}
